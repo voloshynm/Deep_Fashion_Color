@@ -467,6 +467,3 @@ This project is licensed under the **University of Luxembourg License**. See the
 *Created with ❤️ for fashion and AI enthusiasts. Democratizing fashion expertise through deep learning.*
 
 **Keywords**: `deep-learning` `computer-vision` `fashion-ai` `color-theory` `yolov8` `segmentation` `style-recommendation` `pytorch` `fashion-technology`
-```
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/40467684/cc58e1a0-b8a2-4bc0-91bb-f987e69697e9/AI_Color_Stylist_Report.pdf
