@@ -1,6 +1,10 @@
 # AI Color Stylist: Deep Learning-Based Fashion Color Harmony Analysis
 
 A state-of-the-art deep learning pipeline that automatically detects clothing items, extracts dominant colors, and provides intelligent color harmony recommendations based on established fashion theory principles.
+![image](https://github.com/user-attachments/assets/f09bbc39-9a2a-48a8-b2e5-d0a97cc76344)
+![image](https://github.com/user-attachments/assets/027759a8-3f80-4463-8d86-3346e257f066)
+
+
 
 ---
 
